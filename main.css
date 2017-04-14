@@ -1,0 +1,17 @@
+html { 
+  font-size: 62.5%;
+} 
+
+body{
+	background-color:#383838;
+}
+
+#wodehouse{
+	font-size:15em;
+	font-family: "Monaco";
+	color:#E9E5ED;
+	text-align:center;
+	background-color:#758C86;
+	padding:10% 0;
+	margin:10%;
+}
